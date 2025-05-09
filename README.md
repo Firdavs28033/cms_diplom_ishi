@@ -1,18 +1,10 @@
-**CMS Zaifliklarini Aniqlovchi Dastur: O‘zbekcha va qulay tarzda tushuntirish**
+**CMS Zaifliklarini Aniqlovchi Dasturi**
 
 ### CMS nima?
 CMS (Content Management System) — bu raqamli kontentni yaratish va tahrirlashni boshqaradigan tizim. Odatda, bir nechta foydalanuvchilar hamkorlikda ishlashi uchun qulay muhit taqdim etadi. Mashhur misollar: *WordPress, Joomla, Drupal* va boshqalar.
 
 ### CMS Zaifliklarini Aniqlovchi Dastur haqida
 **CMS Zaifliklarini Aniqlovchi Dastur** (CMSeeK) — bu veb-saytlarning CMS tizimlarini aniqlash va ularning zaifliklarini skaner qilish uchun mo‘ljallangan Python 3 asosidagi vosita. Ushbu dastur 180 dan ortiq CMS tizimlarini aniqlay oladi va maxsus skanerlash funksiyalari orqali sayt xavfsizligini tekshiradi.
-
-### Chiqish tarixi
-- **1.1.3** [25-07-2020]
-- **1.1.2** [19-05-2019]
-- **1.1.1** [01-02-2019]
-- **1.1.0** [28-08-2018]
-- Va boshqa versiyalar...  
-To‘liq o‘zgarishlar ro‘yxati: [Changelog](https://github.com/Firdavs28033/CMSeeK/blob/master/CHANGELOG)
 
 ### Asosiy funksiyalar
 - **180+ CMS aniqlash**: Sayt qaysi CMSda ishlayotganini aniqlaydi.
